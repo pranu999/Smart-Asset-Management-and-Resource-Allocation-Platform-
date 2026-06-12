@@ -397,10 +397,7 @@ Users can:
 Team Members:
 
 * Pranathi Kokkiligadda
-* Team Member 2
-* Team Member 3
 
-(Add contributor names if applicable)
 
 ---
 
